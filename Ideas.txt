@@ -1,0 +1,24 @@
+When wanting to "bust through walls", since needing to disable platform masking to get through, maybe will only drop through when character slows down.  AKA, they must commit to the run for if they slow down while deciding to bust through, they will fall through the ground.
+^
+Holding shift negates gravity?
+
+
+Being able to jump up through boxes and then changing the background when fully into box.
+
+Boxes having intrinsic properties/powerups?
+Blue = speed etc.
+Why have 3 colours, if only background and platforms are the only dimensions of the game.
+
+Maybe have portals?
+
+
+Maybe the game is about relationships (between things) and how the relationships interact to form ideass/themes.
+Asbtract paintings, orpheous and apollo?
+Background and foreground.
+Have symmetrical levels(one block effects it's pair), but having assymetrical set pieces(keys, so changing the colours means the key will behave differently and possibly drop down through the cubes by linking up the blocks).
+Symmetrical levels with symmetrical setpieces.
+Have mirrored movement, but can individually colour squares.
+Have a note play for the block you are standing on and a note for the background. (minor, major, whole tones).  One for x position, other for y position(determine key?)
+Different rhytmns overlayed
+Silence and noise
+Gradients as blocks?
