@@ -22,5 +22,3 @@ Have a note play for the block you are standing on and a note for the background
 Different rhytmns overlayed
 Silence and noise
 Gradients as blocks?
-
-Wut

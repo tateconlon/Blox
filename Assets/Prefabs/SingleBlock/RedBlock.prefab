@@ -154,7 +154,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_Size: {x: .610000014, y: .610000014}
+  m_Size: {x: .629999995, y: .629999995}
   m_Center: {x: 0, y: 0}
 --- !u!68 &6800000
 EdgeCollider2D:
