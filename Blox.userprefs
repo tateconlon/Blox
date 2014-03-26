@@ -1,11 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Control Scripts\PlayerTester.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelChanger.cs">
     <Files>
-      <File FileName="Assets\Scripts\Control Scripts\CharacterController2D.cs" Line="319" Column="6" />
-      <File FileName="Assets\Scripts\BlockColorer.cs" Line="11" Column="78" />
-      <File FileName="Assets\Scripts\LayerController.cs" Line="40" Column="3" />
-      <File FileName="Assets\Scripts\Control Scripts\PlayerTester.cs" Line="70" Column="4" />
+      <File FileName="Assets\Scripts\LevelChanger.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
